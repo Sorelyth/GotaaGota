@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:background="@drawable/gotadinero"
+tools:context="com.example.user.gotaagota.vistas.registrar_clientes">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="40dp"
+    android:orientation="vertical">
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/editext">
+        <android.support.design.widget.TextInputEditText
+            android:id="@+id/cedula"
+            android:textColor="@color/icons"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/cedula" />
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/editext">
+        <android.support.design.widget.TextInputEditText
+            android:id="@+id/nombre"
+            android:textColor="@color/icons"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/nombre" />
+    </android.support.design.widget.TextInputLayout>
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/editext">
+        <android.support.design.widget.TextInputEditText
+            android:id="@+id/apellido"
+            android:textColor="@color/icons"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/apellido" />
+    </android.support.design.widget.TextInputLayout>
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/editext">
+        <android.support.design.widget.TextInputEditText
+            android:id="@+id/telefono"
+            android:textColor="@color/icons"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/telefono" />
+    </android.support.design.widget.TextInputLayout>
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/editext">
+        <android.support.design.widget.TextInputEditText
+            android:id="@+id/barrio"
+            android:textColor="@color/icons"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/barrio" />
+    </android.support.design.widget.TextInputLayout>
+    <Button
+        android:id="@+id/boton"
+        android:layout_marginTop="100dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/guardar"
+        android:onClick="guardar"
+        android:theme="@style/RaisedButtonDark"/>
+
+</LinearLayout>
+</LinearLayout>

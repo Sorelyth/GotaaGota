@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Gota a gota</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_inicio">Inicio</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="usario">Usuario</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="login">LOGIN</string>
+    <string name="consultar">Consultar</string>
+
+    <string name="registrar_cliente">Registrar Cliente</string>
+    <string name="registrar_deuda">Registrar Deuda</string>
+    <string name="mostrar_clientes">Mostrar Clientes</string>
+    <string name="reportes">Reporte</string>
+    <array name="lista_menu_lateral">
+        <item>@string/registrar_cliente</item>
+        <item>@string/registrar_deuda</item>
+        <item>@string/mostrar_clientes</item>
+        <item>@string/reportes</item>
+    </array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cedula">Cédula</string>
+    <string name="valor_prestamo">Valor Préstamo</string>
+    <string name="dias">Días:</string>
+    <string name="lunes">Lunes</string>
+    <string name="martes">Martes</string>
+    <string name="miercoles">Miercoles</string>
+    <string name="jueves">Jueves</string>
+    <string name="viernes">Viernes</string>
+    <string name="sabado">Sabado</string>
+    <string name="domingo">Domingo</string>
+    <string name="todos">Todos</string>
+    <string name="prestamo">Préstamo</string>
+    <string name="porcentaje">Porcentaje:</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="barrio">Barrio</string>
+    <string name="guardar">Guardar</string>
+    <string name="intereses">Intereses</string>
+    <string name="cuotas">Cuotas</string>
+    <string name="pagados">pagados</string>
+    <string name="no_pagados">No Pagados</string>
+    <string name="erro1">Usuario o Contraseña Erroneos</string>
+    <string name="title_activity_registrar_cliente">registrar_cliente</string>
+    <string name="telefono">Teléfono</string>
+    <string name="guardar_datos">Recordar datos</string>
+</resources>
