@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Gotaagota.iml" filepath="$PROJECT_DIR$/Gotaagota.iml" />
+      <module fileurl="file://C:\Users\LabRedes\Desktop\Proyecto Movil\proyecto_gotaagota\Gotaagota.iml" filepath="C:\Users\LabRedes\Desktop\Proyecto Movil\proyecto_gotaagota\Gotaagota.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\LabRedes\Desktop\Proyecto Movil\proyecto_gotaagota\app\app.iml" filepath="C:\Users\LabRedes\Desktop\Proyecto Movil\proyecto_gotaagota\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proyecto_gotaagota.iml" filepath="$PROJECT_DIR$/proyecto_gotaagota.iml" />
     </modules>
   </component>
 </project>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Drop to Drop</string>
+    <string name="usario">User</string>
+    <string name="contrasena">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="dias">Days:</string>
+    <string name="lunes">Monday</string>
+    <string name="martes">Tuesday</string>
+    <string name="miercoles">Wednesday</string>
+    <string name="jueves">Thursday</string>
+    <string name="viernes">Friday</string>
+    <string name="cedula">Identification</string>
+    <string name="reportes">Report</string>
+    <string name="valor_prestamo">Loan Value</string>
+    <string name="title_activity_inicio">Start</string>
+    <string name="action_settings">Settings</string>
+    <string name="consultar">Consult</string>
+    <string name="registrar_cliente">Register Client</string>
+    <string name="registrar_deuda">Register Debt</string>
+    <string name="mostrar_clientes">Show Clients</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="title_activity_fullscreen">FullScreen</string>
+    <string name="dummy_content">Dummy</string>
+    <string name="sabado">Saturday</string>
+    <string name="domingo">Sunday</string>
+    <string name="todos">All days</string>
+    <string name="prestamo">Loan</string>
+    <string name="porcentaje">Percentage</string>
+    <string name="nombre">Name</string>
+    <string name="apellido">Lastname</string>
+    <string name="barrio">Neighborhood</string>
+    <string name="guardar">Save</string>
+    <string name="intereses">Interests</string>
+    <string name="cuotas">Fees</string>
+    <string name="pagados">Payments</string>
+    <string name="no_pagados">No Payments</string>
+    <string name="erro1">User or Password Incorrect</string>
+    <string name="title_activity_registrar_cliente">Register_Client</string>
+    <string name="telefono">Phone</string>
+    <string name="guardar_datos">Remember data</string>
+</resources>
